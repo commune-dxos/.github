@@ -1,7 +1,8 @@
+<!-- Ảnh logo đang lấy từ nhánh develop vì chưa có trên main. Đổi develop → main sau lần phát hành tới. -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/commune-dxos/commune-dxos/main/docs/images/logo/logo-ngang-nen-trang.png">
-    <img src="https://raw.githubusercontent.com/commune-dxos/commune-dxos/main/docs/images/logo/logo-ngang.png" alt="Logo Commune DX-OS – Chính quyền số Cấp xã" width="420">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/commune-dxos/commune-dxos/develop/docs/images/logo/logo-ngang-nen-trang.png">
+    <img src="https://raw.githubusercontent.com/commune-dxos/commune-dxos/develop/docs/images/logo/logo-ngang.png" alt="Logo Commune DX-OS – Chính quyền số Cấp xã" width="420">
   </picture>
 </p>
 
